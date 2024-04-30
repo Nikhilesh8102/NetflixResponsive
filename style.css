@@ -17,7 +17,9 @@ body {
 
   position: relative;
 }
-
+.first-container{
+  height:100vh;
+}
 .container .back {
   content: "";
   background: url(images/netflic-bg.jpg) no-repeat center/cover;
